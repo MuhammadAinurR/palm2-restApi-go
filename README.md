@@ -31,7 +31,7 @@ The server will respond with a JSON object containing the generated text:
     {
       "generated_text": "Your generated text here"
     }
-
+![img](https://github.com/MuhammadAinurR/palm2-restApi-go/blob/main/img/ezgif.com-animated-gif-maker.gif?raw=true)
 ## Technical details
 This API uses the Google Cloud AI Platform Generative Language Model API with the "text-bison-001" model.
 The API is implemented using the Gorilla Mux router and the Go RESTful package.
